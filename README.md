@@ -11,3 +11,6 @@ Each aircraft type was evaluated using:
 2. Whether it was commercial or private
 3. The number of fatalities per accident among other metrics
 The aircraft with low fatal accidents, low severe or serious injuries and consistent operational usage are classified as low risk
+## Analysis Findings
+#1. In the Private Sector
+The private aircrafts represents the larger share of accidents compared to the public aircrafts. 
