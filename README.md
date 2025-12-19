@@ -7,8 +7,8 @@ Data&Methodology
 The data contains historical aviation accident and incident records overtime. 
 There are also specific variables that I have used since not all the data is relevant for the analysis.
 Each aircraft type was evaluated using:
-1. Rate of fatal accidents
-2. Whether it was commercial or private
+#1. Rate of fatal accidents
+#2. Whether it was commercial or private
 3. The number of fatalities per accident among other metrics
 The aircraft with low fatal accidents, low severe or serious injuries and consistent operational usage are classified as low risk
 ## Analysis and Findings
