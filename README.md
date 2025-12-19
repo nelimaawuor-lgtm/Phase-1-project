@@ -14,3 +14,6 @@ The aircraft with low fatal accidents, low severe or serious injuries and consis
 ## Analysis Findings
 #1. In the Private Sector
 The private aircrafts represents the larger share of accidents compared to the public aircrafts. 
+
+## Dashboard
+https://public.tableau.com/views/AviationAnalysis_17661280101770/AviationAnalysisVisualizations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
