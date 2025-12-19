@@ -1,5 +1,4 @@
 # Phase 1 Project Description
-
 #The Purpose of this project is to identify low-risk aircraft suitable for initial investment in both commercial and private aviation operations
 Aircraft accident and incident history is used as a proxy for operational, safety and financial risk
 The final goal is to support the Head of Aviation Division in making data-driven fleet acquisition decisions that minimize risk while ensuring scalability and reliability.
@@ -18,8 +17,12 @@ The aircraft with low fatal accidents, low severe or serious injuries and consis
 4. We move on to risk evaluation by model and make. I grouped the data by Make, Model, and Purpose of flight to find the average total injuries. This data gives us aircraft models with the lowest average injuries. This indicates low-risk options.
 5. The last thing I did was to analyse the data based on purpose of flight. The bar charts clearly showed that personal flights account for the highest number of fatal and total injuries, suggesting a higher risk in this category compared to others.
 ##  Recommendations
-#Commercial and public aircrafts present lower total injuries as well as fatalities, which means it is a low safety risk aircraft.
-#Private aviation represents the largest share of accidents probably due to experience. However, there are other aircrafts that offer lower fatal accidents and hence low safety risk. For operational risks we have to put the necessary steps in place to curb or lower them.
-## Conclusion
+	Commercial and public aircrafts present lower total injuries as well as fatalities, which means it is a low safety risk aircraft. For commercial and public use, I would recommend: CESSNA 152 and 172N. They present a low risk both safety and financial. With reduce accident rates the we are able to maximize profits.
+	Private aviation represents the largest share of accidents probably due to experience. However, there are other aircrafts that offer lower fatal accidents and hence low safety risk. For operational risks we have to put the necessary steps in place to curb or lower them.
+For private operations I recommend a Piper PA-12=115 and Piper PA-18.
+
+Conclusion 
+Based on the data, the above recommended aircrafts pose low safety risk, financial risk and are good for initial investment. 
+
 ## Dashboard
 https://public.tableau.com/views/AviationAnalysis_17661280101770/AviationAnalysisVisualizations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
