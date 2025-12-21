@@ -1,7 +1,7 @@
 # Phase 1 Project Description
 #The Purpose of this project is to identify low-risk aircraft suitable for initial investment in both commercial and private aviation operations
 Aircraft accident and incident history is used as a proxy for operational, safety and financial risk
-The final goal is to support the Head of Aviation Division in making data-driven fleet acquisition decisions that minimize risk while ensuring scalability and reliability.
+The final goal is to support the head of Fleet Planning and Management in making data-driven fleet acquisition decisions that minimize risk while ensuring scalability and reliability.
 Data&Methodology
 The data contains historical aviation accident and incident records overtime. 
 There are also specific variables that I have used since not all the data is relevant for the analysis.
